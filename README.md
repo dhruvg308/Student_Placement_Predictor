@@ -92,7 +92,7 @@ python -m streamlit run app.py
 ---
 
 <div align="center">
-  <h3>🛠️ Conceptualized & Built By <a href="https://github.com/your-username">Dhruv Gupta</a></h3>
+  <h3>🛠️ Conceptualized & Built By <a href="https://github.com/dhruvg308">Dhruv Gupta</a></h3>
   <br>
   <i>"Predicting Success. Engineering Futures."</i>
 </div>
